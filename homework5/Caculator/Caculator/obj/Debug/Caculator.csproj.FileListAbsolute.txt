@@ -1,0 +1,10 @@
+C:\Users\m1510\Desktop\csharp_homework\homework5\Caculator\Caculator\bin\Debug\Caculator.exe.config
+C:\Users\m1510\Desktop\csharp_homework\homework5\Caculator\Caculator\bin\Debug\Caculator.exe
+C:\Users\m1510\Desktop\csharp_homework\homework5\Caculator\Caculator\bin\Debug\Caculator.pdb
+C:\Users\m1510\Desktop\csharp_homework\homework5\Caculator\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+C:\Users\m1510\Desktop\csharp_homework\homework5\Caculator\Caculator\obj\Debug\Caculator.Form1.resources
+C:\Users\m1510\Desktop\csharp_homework\homework5\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+C:\Users\m1510\Desktop\csharp_homework\homework5\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+C:\Users\m1510\Desktop\csharp_homework\homework5\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\m1510\Desktop\csharp_homework\homework5\Caculator\Caculator\obj\Debug\Caculator.exe
+C:\Users\m1510\Desktop\csharp_homework\homework5\Caculator\Caculator\obj\Debug\Caculator.pdb

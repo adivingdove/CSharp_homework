@@ -1,0 +1,14 @@
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\obj\Debug\SearchApp.csproj.AssemblyReference.cache
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\obj\Debug\SearchApp.Form1.resources
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\obj\Debug\SearchApp.Properties.Resources.resources
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\obj\Debug\SearchApp.csproj.GenerateResource.cache
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\obj\Debug\SearchApp.csproj.CoreCompileInputs.cache
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\bin\Debug\SearchApp.exe.config
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\bin\Debug\SearchApp.exe
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\bin\Debug\SearchApp.pdb
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\obj\Debug\SearchApp.exe
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\obj\Debug\SearchApp.pdb
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\m1510\Desktop\csharp_homework\homework7\SearchApp\SearchApp\obj\Debug\SearchApp.csproj.Up2Date

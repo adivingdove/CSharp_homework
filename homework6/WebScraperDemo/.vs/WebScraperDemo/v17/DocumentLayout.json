@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m1510\\Desktop\\csharp_homework\\homework6\\WebScraperDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{466C0DE4-CB9F-47DC-8936-CB2486C2046B}|WebScraperDemo\\WebScraperDemo.csproj|c:\\users\\m1510\\desktop\\csharp_homework\\homework6\\webscraperdemo\\webscraperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{466C0DE4-CB9F-47DC-8936-CB2486C2046B}|WebScraperDemo\\WebScraperDemo.csproj|solutionrelative:webscraperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C0DE4-CB9F-47DC-8936-CB2486C2046B}|WebScraperDemo\\WebScraperDemo.csproj|c:\\users\\m1510\\desktop\\csharp_homework\\homework6\\webscraperdemo\\webscraperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C0DE4-CB9F-47DC-8936-CB2486C2046B}|WebScraperDemo\\WebScraperDemo.csproj|solutionrelative:webscraperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m1510\\Desktop\\csharp_homework\\homework6\\WebScraperDemo\\WebScraperDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "WebScraperDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\m1510\\Desktop\\csharp_homework\\homework6\\WebScraperDemo\\WebScraperDemo\\Form1.cs",
+              "RelativeToolTip": "WebScraperDemo\\Form1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAASwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:08:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\m1510\\Desktop\\csharp_homework\\homework6\\WebScraperDemo\\WebScraperDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "WebScraperDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\m1510\\Desktop\\csharp_homework\\homework6\\WebScraperDemo\\WebScraperDemo\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WebScraperDemo\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:08:04.968Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

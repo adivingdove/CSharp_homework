@@ -1,0 +1,7 @@
+D:\Visual Studio\csharp_homework\prime\prime\bin\Debug\prime.exe.config
+D:\Visual Studio\csharp_homework\prime\prime\bin\Debug\prime.exe
+D:\Visual Studio\csharp_homework\prime\prime\bin\Debug\prime.pdb
+D:\Visual Studio\csharp_homework\prime\prime\obj\Debug\prime.csproj.AssemblyReference.cache
+D:\Visual Studio\csharp_homework\prime\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+D:\Visual Studio\csharp_homework\prime\prime\obj\Debug\prime.exe
+D:\Visual Studio\csharp_homework\prime\prime\obj\Debug\prime.pdb

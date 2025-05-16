@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m1510\\Desktop\\csharp_homework\\homework7\\SearchApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E77F5F3-841B-4708-B7C4-E820988065A2}|SearchApp\\SearchApp.csproj|c:\\users\\m1510\\desktop\\csharp_homework\\homework7\\searchapp\\searchapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E77F5F3-841B-4708-B7C4-E820988065A2}|SearchApp\\SearchApp.csproj|solutionrelative:searchapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E77F5F3-841B-4708-B7C4-E820988065A2}|SearchApp\\SearchApp.csproj|c:\\users\\m1510\\desktop\\csharp_homework\\homework7\\searchapp\\searchapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E77F5F3-841B-4708-B7C4-E820988065A2}|SearchApp\\SearchApp.csproj|solutionrelative:searchapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E77F5F3-841B-4708-B7C4-E820988065A2}|SearchApp\\SearchApp.csproj|c:\\users\\m1510\\desktop\\csharp_homework\\homework7\\searchapp\\searchapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E77F5F3-841B-4708-B7C4-E820988065A2}|SearchApp\\SearchApp.csproj|solutionrelative:searchapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\m1510\\Desktop\\csharp_homework\\homework7\\SearchApp\\SearchApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SearchApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\m1510\\Desktop\\csharp_homework\\homework7\\SearchApp\\SearchApp\\Form1.Designer.cs",
+              "RelativeToolTip": "SearchApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:14:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m1510\\Desktop\\csharp_homework\\homework7\\SearchApp\\SearchApp\\Form1.cs",
+              "RelativeDocumentMoniker": "SearchApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\m1510\\Desktop\\csharp_homework\\homework7\\SearchApp\\SearchApp\\Form1.cs",
+              "RelativeToolTip": "SearchApp\\Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAvwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:07:04.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\m1510\\Desktop\\csharp_homework\\homework7\\SearchApp\\SearchApp\\Form1.cs",
+              "RelativeDocumentMoniker": "SearchApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\m1510\\Desktop\\csharp_homework\\homework7\\SearchApp\\SearchApp\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SearchApp\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:05:31.943Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

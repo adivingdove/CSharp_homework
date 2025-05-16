@@ -1,0 +1,10 @@
+C:\Users\m1510\Desktop\csharp_homework\homework6\WebScraperDemo\WebScraperDemo\obj\Debug\WebScraperDemo.csproj.AssemblyReference.cache
+C:\Users\m1510\Desktop\csharp_homework\homework6\WebScraperDemo\WebScraperDemo\obj\Debug\WebScraperDemo.Form1.resources
+C:\Users\m1510\Desktop\csharp_homework\homework6\WebScraperDemo\WebScraperDemo\obj\Debug\WebScraperDemo.Properties.Resources.resources
+C:\Users\m1510\Desktop\csharp_homework\homework6\WebScraperDemo\WebScraperDemo\obj\Debug\WebScraperDemo.csproj.GenerateResource.cache
+C:\Users\m1510\Desktop\csharp_homework\homework6\WebScraperDemo\WebScraperDemo\obj\Debug\WebScraperDemo.csproj.CoreCompileInputs.cache
+C:\Users\m1510\Desktop\csharp_homework\homework6\WebScraperDemo\WebScraperDemo\bin\Debug\WebScraperDemo.exe.config
+C:\Users\m1510\Desktop\csharp_homework\homework6\WebScraperDemo\WebScraperDemo\bin\Debug\WebScraperDemo.exe
+C:\Users\m1510\Desktop\csharp_homework\homework6\WebScraperDemo\WebScraperDemo\bin\Debug\WebScraperDemo.pdb
+C:\Users\m1510\Desktop\csharp_homework\homework6\WebScraperDemo\WebScraperDemo\obj\Debug\WebScraperDemo.exe
+C:\Users\m1510\Desktop\csharp_homework\homework6\WebScraperDemo\WebScraperDemo\obj\Debug\WebScraperDemo.pdb
