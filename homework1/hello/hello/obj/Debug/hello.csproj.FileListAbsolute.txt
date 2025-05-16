@@ -1,7 +1,0 @@
-D:\Visual Studio\csharp_homework\hello\hello\bin\Debug\hello.exe.config
-D:\Visual Studio\csharp_homework\hello\hello\bin\Debug\hello.exe
-D:\Visual Studio\csharp_homework\hello\hello\bin\Debug\hello.pdb
-D:\Visual Studio\csharp_homework\hello\hello\obj\Debug\hello.csproj.AssemblyReference.cache
-D:\Visual Studio\csharp_homework\hello\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
-D:\Visual Studio\csharp_homework\hello\hello\obj\Debug\hello.exe
-D:\Visual Studio\csharp_homework\hello\hello\obj\Debug\hello.pdb
